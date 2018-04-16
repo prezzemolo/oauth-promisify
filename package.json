@@ -1,0 +1,15 @@
+{
+  "name": "oauth-promisify",
+  "version": "0.9.15",
+  "description": "Yet another promisify of 'oauth' package",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prezzemolo/oauth-promisify.git"
+  },
+  "author": "prezzemolo <owner@prezzemolo.org>",
+  "license": "MIT",
+  "dependencies": {
+    "oauth": "0.9.15"
+  }
+}
